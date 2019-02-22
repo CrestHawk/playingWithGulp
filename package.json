@@ -1,0 +1,22 @@
+{
+  "name": "playingwithgulp",
+  "version": "1.0.0",
+  "description": "Me just testing some thins with gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestHawk/playingWithGulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestHawk/playingWithGulp/issues"
+  },
+  "homepage": "https://github.com/CrestHawk/playingWithGulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
